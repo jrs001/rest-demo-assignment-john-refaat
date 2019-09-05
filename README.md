@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/john-refaat/rest-demo.svg?token=cmSJyCpirfb7z9Gi2bej&branch=master)](https://travis-ci.com/john-refaat/rest-demo)
+[![Build Status](https://travis-ci.com/jrs001/rest-demo-assignment-john-refaat.svg?branch=master)](https://travis-ci.com/jrs001/rest-demo-assignment-john-refaat)
 
 A Java REST API for Assignments Tool Investigations
 
